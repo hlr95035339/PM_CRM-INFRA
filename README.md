@@ -23,7 +23,7 @@ This project demonstrates a Customer Relationship Management system designed as 
 ## Infrastructure Extension (Conceptual Layer)
 To simulate enterprise deployment, the CRM project is extended with a conceptual infrastructure layer:
 - Firewall & Public IP: Secure remote access to backend services  
-- Switch Monitoring: CGYSTD_SW1 & SW2 with MIP public configuration  
+- Switch Monitoring: @  with MIP public configuration  
 - Host File Mapping: Internal service routing  
 - Monitoring Tools: Cacti / SNMP for performance tracking  
 - Gateway Setup: External traffic management  
