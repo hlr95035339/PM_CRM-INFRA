@@ -1,8 +1,7 @@
 # CRM System – Project Management Showcase
 
 ## Project Overview
-This project demonstrates a Customer Relationship Management (CRM) system designed as a project management showcase.  
-It highlights my ability to plan, track, and deliver tasks across both application and infrastructure layers.
+This project demonstrates a Customer Relationship Management system designed as a project management showcase. It highlights the ability to plan, track, and deliver tasks across both application and infrastructure layers.
 
 ## Features
 - Customer Management: Add, update, and track customer records  
