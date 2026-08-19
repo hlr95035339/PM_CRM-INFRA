@@ -39,3 +39,26 @@ To simulate enterprise deployment, the CRM project is extended with a conceptual
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/crm-project.git
+
+## Project Structure
+- `controllers/` – Business logic and request handling  
+- `models/` – Database schema and ORM definitions  
+- `routes/` – RESTful API endpoints  
+- `frontend/` – UI components and dashboard  
+- `utils/` – Helper functions  
+- `data/` – Sample data and configuration  
+- `crm-nodejs-lite/` – Lightweight version of large/hidden files (e.g., node_modules, environment files)  
+- `server.js` – Entry point for backend service  
+
+> `node_modules` and hidden files are excluded from GitHub for size and security reasons.  
+> Dependencies can be restored using `npm install`.
+
+---
+
+## How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/hlr95035339/PM_CRM-INFRA.git
+cd PM_CRM-INFRA
+2. Install dependencies
