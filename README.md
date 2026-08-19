@@ -10,11 +10,12 @@ This project demonstrates a Customer Relationship Management system designed as 
 - Dashboard: Simple UI for operational tasks  
 
 ## Tech Stack
-- Frontend: React dashboard  
-- Backend: Node.js + Express RESTful APIs  
-- Database: SQL schema for customers, orders, tickets  
-- Documentation: @@Bilingual README, API guide, UAT test cases  
-
+-  Frontend: React, HTML, CSS
+- Backend: Node.js + Express
+- Database: MySQL / MongoDB
+- API: RESTful routes
+- Tools: VS Code, GitHub
+  
 ## Project Management Approach
 - Planning Tool: Trello board with Backlog / In Progress / Done  
 - Labels: Priority, Hotfix, Requirement/Extend, Epic 
