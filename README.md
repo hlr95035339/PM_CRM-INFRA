@@ -1,8 +1,7 @@
 # CRM System – Project Management Showcase
 
-## Project Overview
 This project demonstrates a Customer Relationship Management system designed as a project management showcase. It highlights the ability to plan, track, and deliver tasks across both application and infrastructure layers.
-
+---
 ## Features
 - Customer Management: Add, update, and track customer records  
 - Order Processing: Create and manage customer orders  
@@ -22,23 +21,12 @@ This project demonstrates a Customer Relationship Management system designed as 
 
 ## Infrastructure Extension (Conceptual Layer)
 To simulate enterprise deployment, the CRM project is extended with a conceptual infrastructure layer:
-- Firewall & Public IP: Secure remote access to backend services  
-- Switch Monitoring: @  with MIP public configuration  
-- Host File Mapping: Internal service routing  
-- Monitoring Tools: Cacti / SNMP for performance tracking  
-- Gateway Setup: External traffic management  
+- Firewall configuration with public IP for secure remote access  
+- Switch/router setup for internal/external connectivity  
+- Gateway management for traffic routing  
+- Monitoring tools (Cacti/SNMP/Prometheus) for performance tracking  
+- SSL/TLS for secure communication  
 
-## Demonstrated Skills
-- Scrum-style project planning and tracking  
-- Backend development with Node.js and Express  
-- @@@UI/UX design for operational dashboards  
-- Infrastructure awareness (conceptual deployment, monitoring, firewall)  
--@@@@ Bilingual documentation and communication  
-
-## Usage
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/crm-project.git
 
 ## Project Structure
 - `controllers/` – Business logic and request handling  
@@ -62,3 +50,15 @@ To simulate enterprise deployment, the CRM project is extended with a conceptual
 git clone https://github.com/hlr95035339/PM_CRM-INFRA.git
 cd PM_CRM-INFRA
 2. Install dependencies
+
+## Demonstrated Skills
+- Scrum-style project planning and tracking  
+- Backend development with Node.js and Express  
+- @@@UI/UX design for operational dashboards  
+- Infrastructure awareness (conceptual deployment, monitoring, firewall)  
+-@@@@ Bilingual documentation and communication  
+
+## Usage
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/crm-project.git
