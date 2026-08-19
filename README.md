@@ -2,17 +2,40 @@
 
 ### This project demonstrates a Customer Relationship Management system designed as a project management showcase. It highlights the ability to plan, track, and deliver tasks across both application and infrastructure layers.
 ---
-## Features
-- Customer Management: Add, update, and track customer records  
-- Order Processing: Create and manage customer orders  
-- Ticket Tracking: Submit and resolve support tickets  
-- Dashboard: Simple UI for operational tasks  
 
 ## Tech Stack
 - Frontend: React, HTML, CSS  
 - Backend: Node.js + Express RESTful APIs  
 - Database: SQLite (`crm.sqlite`)  
-- Tools: VS Code, GitHub, Trello (for project tracking)  
+- Tools: VS Code, GitHub, Trello (for project tracking)
+  
+## Project Structure
+- `controllers/` – Business logic and request handling  
+- `models/` – Database schema and ORM definitions  
+- `routes/` – RESTful API endpoints  
+- `frontend/` – UI components and dashboard  
+- `utils/` – Helper functions  
+- `data/` – Sample data and configuration  
+- `crm-nodejs-lite/` – Lightweight version of large/hidden files (e.g., node_modules, environment files)  
+- `server.js` – Entry point for backend service  
+
+> `node_modules` and hidden files are excluded from GitHub for size and security reasons.  
+> Dependencies can be restored using `npm install`.
+
+## Features
+- Customer Management: Add, update, and track customer records  
+- Order Processing: Create and manage customer orders  
+- Ticket Tracking: Submit and resolve support tickets  
+- Dashboard: Simple UI for operational tasks
+
+## CRM Web Dashboard – Customer Overview, Ticket & Order Submission Interface
+- Customer and order management interface
+- Live form for creating orders and submitting support tickets  
+<img src="crm1.png" alt="CRM Dashboard" width="400">
+
+<img src="crm2.png" alt="CRM Dashboard" width="396">
+
+  ---
   
 ## Project Management Approach
 - Planning Tool: Trello board with Backlog / In Progress / Done  
@@ -32,18 +55,6 @@ To simulate enterprise deployment, the CRM project is extended with a conceptual
 - SSL/TLS for secure communication  
 
 
-## Project Structure
-- `controllers/` – Business logic and request handling  
-- `models/` – Database schema and ORM definitions  
-- `routes/` – RESTful API endpoints  
-- `frontend/` – UI components and dashboard  
-- `utils/` – Helper functions  
-- `data/` – Sample data and configuration  
-- `crm-nodejs-lite/` – Lightweight version of large/hidden files (e.g., node_modules, environment files)  
-- `server.js` – Entry point for backend service  
-
-> `node_modules` and hidden files are excluded from GitHub for size and security reasons.  
-> Dependencies can be restored using `npm install`.
 
 ---
 
