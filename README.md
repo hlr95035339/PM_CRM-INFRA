@@ -17,7 +17,11 @@
 ## Project Management Approach
 - Planning Tool: Trello board with Backlog / In Progress / Done  
 - Labels: Priority, Hotfix, Requirement/Extend, Epic 
-- Workflow: Requirement analysis → API development → Testing → Documentation  
+- Workflow: Requirement analysis → API development → Testing → Documentation
+
+### 📋 Trello Board – Project Management Workflow
+*(CRM-EN Board showing backlog, progress, and documentation tasks)*  
+![Trello Board](trello.png)
 
 ## Infrastructure Extension (Conceptual Layer)
 To simulate enterprise deployment, the CRM project is extended with a conceptual infrastructure layer:
