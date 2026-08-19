@@ -1,0 +1,10 @@
+{
+  "name": "crm-nodejs-lite",
+  "version": "1.0.0",
+  "description": "Minimal CRM demo using only Node built-ins (no node_modules required)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}

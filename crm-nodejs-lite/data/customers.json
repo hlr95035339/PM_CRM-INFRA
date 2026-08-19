@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Acme Corp", "email": "contact@acme.example" },
+  { "id": 2, "name": "Beta LLC", "email": "hello@beta.example" }
+]
