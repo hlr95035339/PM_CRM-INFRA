@@ -21,7 +21,7 @@
 
 ### 📋 Trello Board – Project Management Workflow
 *(CRM-EN Board showing backlog, progress, and documentation tasks)*  
-![Trello Board](trello.png)
+![Trello Board](CRMTRELLO-EN.png)
 
 ## Infrastructure Extension (Conceptual Layer)
 To simulate enterprise deployment, the CRM project is extended with a conceptual infrastructure layer:
