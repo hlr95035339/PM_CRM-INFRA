@@ -13,11 +13,11 @@ This project demonstrates a Customer Relationship Management system designed as 
 - Frontend: React dashboard  
 - Backend: Node.js + Express RESTful APIs  
 - Database: SQL schema for customers, orders, tickets  
-- Documentation: Bilingual README, API guide, UAT test cases  
+- Documentation: @@Bilingual README, API guide, UAT test cases  
 
 ## Project Management Approach
 - Planning Tool: Trello board with Backlog / In Progress / Done  
-- Labels: Priority, Hotfix, Requirement/Extend, Epic, Goal  
+- Labels: Priority, Hotfix, Requirement/Extend, Epic 
 - Workflow: Requirement analysis → API development → Testing → Documentation  
 
 ## Infrastructure Extension (Conceptual Layer)
@@ -31,9 +31,9 @@ To simulate enterprise deployment, the CRM project is extended with a conceptual
 ## Demonstrated Skills
 - Scrum-style project planning and tracking  
 - Backend development with Node.js and Express  
-- UI/UX design for operational dashboards  
+- @@@UI/UX design for operational dashboards  
 - Infrastructure awareness (conceptual deployment, monitoring, firewall)  
-- Bilingual documentation and communication  
+-@@@@ Bilingual documentation and communication  
 
 ## Usage
 1. Clone the repository  
