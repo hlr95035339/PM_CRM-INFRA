@@ -10,11 +10,10 @@ This project demonstrates a Customer Relationship Management system designed as 
 - Dashboard: Simple UI for operational tasks  
 
 ## Tech Stack
--  Frontend: React, HTML, CSS
-- Backend: Node.js + Express
-- Database: MySQL / MongoDB
-- API: RESTful routes
-- Tools: VS Code, GitHub
+- Frontend: React, HTML, CSS  
+- Backend: Node.js + Express RESTful APIs  
+- Database: SQLite (`crm.sqlite`)  
+- Tools: VS Code, GitHub, Trello (for project tracking)  
   
 ## Project Management Approach
 - Planning Tool: Trello board with Backlog / In Progress / Done  
